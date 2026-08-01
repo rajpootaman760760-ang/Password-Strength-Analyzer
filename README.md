@@ -28,4 +28,5 @@ python password_strength_analyzer.py
 ## Author 
 
 Aman Kumar Rajpoot
+.
 
