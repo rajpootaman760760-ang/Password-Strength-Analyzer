@@ -1,4 +1,4 @@
-# Password Strength Analyzer 🔐 
+# Password Strength Analyzer 🔐
 
 A Python-based password security analyzer.
 
