@@ -1,4 +1,4 @@
-# Password Strength Analyzer 🔐
+i# Password Strength Analyzer 🔐
 
 A Python-based password security analyzer.
 
@@ -27,5 +27,5 @@ python password_strength_analyzer.py
 
 ## Author 
 
-Aman Kumar Rajpoot
+Aman Kumar Rajpoot. 
 
