@@ -26,6 +26,6 @@ A Python-based password security analyzer.
 python password_strength_analyzer.py
 
 ## Author 
- 
+  
 Aman Kumar Rajpoot
  
