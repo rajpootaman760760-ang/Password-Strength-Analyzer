@@ -20,7 +20,7 @@ A Python-based password security analyzer.
 - regex
 - JSON
 
-## Run
+## Run 
 
 ```bash
 python password_strength_analyzer.py
